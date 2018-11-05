@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlujoArchivosG1-2019-I", "FlujoArchivosG1-2019-I\FlujoArchivosG1-2019-I.csproj", "{05564245-DF56-4E8E-822A-7550D71A44EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormularioArchivos", "FormularioArchivos\FormularioArchivos.csproj", "{A1B346F9-CBD4-4008-A786-07303BE40A17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{05564245-DF56-4E8E-822A-7550D71A44EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05564245-DF56-4E8E-822A-7550D71A44EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05564245-DF56-4E8E-822A-7550D71A44EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1B346F9-CBD4-4008-A786-07303BE40A17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1B346F9-CBD4-4008-A786-07303BE40A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1B346F9-CBD4-4008-A786-07303BE40A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1B346F9-CBD4-4008-A786-07303BE40A17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
